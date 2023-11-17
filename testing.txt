@@ -1,0 +1,43 @@
+Testing
+Test cases:
+Test Case No. 1
+Test case
+Objective
+To test whether the necessary information from the resume is parsed.
+Test Data:
+Test Data Expected Result Actual Result
+download the resume
+and convert it to text
+file
+Show name, email,
+mobile number,
+technical skills, soft
+skills, education,
+Language, experience,
+address
+Shown name, email,
+mobile number,
+technical
+skills, soft skills,
+education, Language,
+experience, address
+Test Results The above result indicates that the necessary information from the
+resume has been parsed.
+Unit Testing
+TESTING FOR BOTH VALID AND INVALID DATA :
+TO CHECK WHETHER THE ENETERED DIRECTORY EXISTS :
+
+Dynamic Testing
+a: Boundary Value Analysis
+Boundary Value Analysis is a black box test design technique where instead of looking for faults in the
+middle of the input, it looks for errors at the edges of the input domain (tests a program's behaviour
+at the input boundaries).
+Test case 1:
+Checking that no other files except pdf are being extracted from the received mails .
+
+.b: Mutation Testing
+Mutation testing is a type of white box testing where testers modify some sections of an application's
+source code to make sure a software test suite can recognise the changes.
+3: Static Testing
+Static testing involves validating your code without any execution. Under this problem statement, you
+will be expected to analyse and calculate the cyclomatic complexity of your code.
